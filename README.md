@@ -2,3 +2,6 @@
 
 ## Install Dependencies
 Run `npm install` to install all the necessary dependencies to run the project.
+
+##  Development server
+Run `node kline` to start the project.
